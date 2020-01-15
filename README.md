@@ -14,7 +14,7 @@ then, open http://localhost:5002 on your browser.
 
 # Note
 
-If you are searching for Quantified Reference Extracts, please visit https://qrexracts.com
+If you are searching for Quantified Reference Extracts, please visit https://qrextracts.com
 
 There is no relation between https://github.com/ilkermanap/qrextract   and  https://qrextracts.com
 
