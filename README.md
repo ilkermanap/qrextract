@@ -10,3 +10,11 @@ To run, enter the commands below,
     python qr.py
 
 then, open http://localhost:5002 on your browser.
+
+
+# Note
+
+If you are searching for Quantified Reference Extracts, please visit https://qrexracts.com
+
+There is no relation between https://github.com/ilkermanap/qrextract   and  https://qrextracts.com
+
